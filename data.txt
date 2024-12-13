@@ -1,4 +1,6 @@
-Country: Canada
+[
+    {
+        Country: Canada
 
 Popular Activities: Hockey, Hiking, Cycling, and Swimming.
 
@@ -392,3 +394,4 @@ Origins:Australian Rules Football was created in the mid-19th century, around 18
 HeathCare: Australia has a universal healthcare system known as Medicare, which provides all residents and citizens with access to essential medical services. It is a mix of public and private services, with significant government involvement in ensuring that healthcare is affordable and accessible for everyone.
 
 Obesity Rate (BMI>OR=30): 31.82%
+]
