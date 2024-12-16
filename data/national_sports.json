@@ -1,0 +1,152 @@
+[
+    {
+        "country_id": "canada",
+        "sport_name": "Ice Hockey",
+        "origins": "Ice Hockey has been played on Canadian ponds since the 19th century, the most well known professional hockey league (National Hockey League or NHL) was founded in Canada in 1917. Since the sport has been in the country for so long the sport has become intertwined with the culture as national pride has surged during national and international success in ice hockey."
+    },
+    {
+        "country_id": "costa rica",
+        "sport_name": "Soccer",
+        "origins": "Soccer was introduced to Costa Rica in the late 19th century, primarily by British immigrants and returning Costa Ricans who had studied or lived abroad. The first recorded soccer match in the country took place in 1877, and by the early 20th century, the sport had gained popularity across the country. Soccer is deeply embedded in Costa Rican culture, and it is a central part of the country's identity. It is often referred to as the 'king of sports' in the country, and people from all walks of life—whether young or old—participate in or follow the sport."
+    },
+    {
+        "country_id": "united states",
+        "sport_name": "Baseball",
+        "origins": "Baseball has been played in the United States as early as the 19th century once delevoped off of a simple bat-and- ball game orginiating from Europe. The biggest professional basbeall league in the world was created in the United Sates in 1869 (Major League Baseball or MLB). The sport has had multiple different historical moments not only sinonimos with American sports history but American socio-cultural history."
+    },
+    {
+        "country_id": "mexico",
+        "sport_name": "Charreria",
+        "origins": "Charrería has its origins in the early Mexican colonial period, particularly in the 17th century. It evolved from the cattle-ranching traditions of Spanish settlers, who brought with them horsemanship skills and cattle-raising practices that were integrated with indigenous practices. The sport is a celebration of rural life and Mexican tradition, particularly in the regions of Jalisco, Guanajuato, and Durango, where the practice is most popular. It represents the values of family, tradition, and respect for nature, which are central to Mexican culture."
+    },
+    {
+        "country_id": "panama",
+        "sport_name": "Baseball",
+        "origins": "Baseball was introduced to Panama by American workers building the Panama Canal in the early 20th century. The construction of the canal (which began in the late 19th century and was completed in 1914) brought workers from various countries, including the United States, where baseball was a major sport. Baseball is more than just a sport in Panama—it is a cultural tradition that is deeply embedded in the daily lives of many Panamanians. From neighborhood games to local leagues, baseball is played and followed by people of all ages across the country."
+    },
+    {
+        "country_id": "columbia",
+        "sport_name": "Tejo",
+        "origins": "Tejo has ancient roots, dating back to the pre-Columbian period. It is believed to have originated with the Muisca people, an indigenous group that lived in the central highlands of Colombia. Tejo is deeply rooted in Colombian culture and is often seen as a symbol of national identity. It is a traditional game that has been passed down through generations, particularly in rural areas and small towns. It is played during festivals, social gatherings, and community celebrations, where it serves as both entertainment and a way to bring people together."
+    },
+    {
+        "country_id": "peru",
+        "sport_name": "Paleta Fronton",
+        "origins": "Paleta Frontón has deep historical roots in Peru, with its origins dating back to ancient Peruvian cultures, particularly the Inca civilization. Paleta Frontón is not just a sport but a cultural tradition that has been passed down through generations. It is widely played in public spaces, including parks, clubs, and sports facilities across Peru. The game has become a part of the everyday life of many Peruvians, with players ranging from young children to older adults."
+    },
+    {
+        "country_id": "brazil",
+        "sport_name": "Soccer",
+        "origins": "Soccer was introduced to Brazil in the late 19th century by British immigrants and sailors who brought the game with them. The sport quickly gained popularity, especially in the coastal cities like Rio de Janeiro and São Paulo. Soccer became a key component of Brazil’s national identity. The game transcended class, race, and social status, uniting people from all backgrounds. It became a way for Brazilians to express their national pride, especially in a country with a rich cultural mix of Indigenous, African, European, and other influences."
+    },
+    {
+        "country_id": "argentina",
+        "sport_name": "Pato",
+        "origins": "Pato has a long history that dates back to the early colonial period in Argentina. It is a combination of horseback riding and ball games, which were practiced by the indigenous people of the region, particularly in the pampas (grasslands). Pato is deeply intertwined with the Argentine identity. The sport has been associated with the traditional gaucho (cowboy) culture, which is central to Argentina's national heritage."
+    },
+    {
+        "country_id": "uruguay",
+        "sport_name": "Soccer",
+        "origins": "Soccer was introduced to Uruguay by British immigrants in the late 19th century, and it quickly became popular across the country. The first official soccer match in Uruguay was played in 1889, and the sport grew rapidly in the early 20th century. Soccer in Uruguay is not just a sport but a significant social and cultural activity. It serves as a medium for community expression, where fans from different regions, backgrounds, and social classes can come together to cheer for their teams and celebrate their shared passion."
+    },
+    {
+        "country_id": "united kingdom",
+        "sport_name": "Soccer",
+        "origins": "The United Kingdom is often credited as the birthplace of modern football (soccer). While various forms of ball games were played in ancient cultures, the version of the game most closely resembling today’s soccer began to take shape in England during the 19th century. Once soccer was formalized in England, it quickly spread to other parts of the UK, including Scotland, Wales, and Northern Ireland. It became deeply ingrained in the culture of these countries."
+    },
+    {
+        "country_id": "germany",
+        "sport_name": "Soccer",
+        "origins": "Soccer's origins in Germany can be traced back to the late 19th century. The game was introduced to Germany by British expatriates and other foreigners who had played the sport in their home countries. The first recorded match in Germany was played in 1874. Soccer plays an important role in community building and social integration in Germany. Clubs and football matches are often where people from different walks of life come together. Soccer has been a bridge for people in Germany, including immigrants, who often integrate through their shared love of the sport."
+    },
+    {
+        "country_id": "italy",
+        "sport_name": "Soccer",
+        "origins": "Italy has a storied history in international soccer, with the national team (Gli Azzurri) winning multiple FIFA World Cups (1934, 1938, 1982, 2006). These victories have cemented soccer's place as a source of national pride. Soccer is deeply intertwined with Italian identity and culture. It serves as a unifying force in a country known for regional differences."
+    },
+    {
+        "country_id": "norway",
+        "sport_name": "Skiing",
+        "origins": "Skiing has been an integral part of Norwegian culture for thousands of years. The word ski itself is derived from the Old Norse word skíð, meaning 'split piece of wood.' Skiing is often referred to as Norway’s “birthright,” with a famous saying: 'Nordmenn er født med ski på beina' ('Norwegians are born with skis on their feet')."
+    },
+    {
+        "country_id": "turkey",
+        "sport_name": "Oil Wrestling (Yağlı Güreş)",
+        "origins": "Oil wrestling has roots dating back over 650 years, making it one of the world's oldest continuously practiced sports. It is believed to have originated during the Ottoman Empire, though similar practices trace back even earlier to Central Asia and the Turkic peoples."
+    },
+    {
+        "country_id": "algeria",
+        "sport_name": "Soccer",
+        "origins": "Soccer played a crucial role during Algeria’s struggle for independence from France (1954–1962). The FLN National Team, formed by the National Liberation Front, represented Algerian resistance on the international stage, using football as a tool for political awareness and unity."
+    },
+    {
+        "country_id": "egypt",
+        "sport_name": "Soccer",
+        "origins": "Soccer has been a central part of Egyptian sports culture since its introduction in the late 19th and early 20th centuries during British colonial rule. Soccer is a unifying force in Egyptian society, transcending socioeconomic and regional differences. Watching and discussing matches is a shared experience among friends, families, and communities."
+    },
+    {
+        "country_id": "nigeria",
+        "sport_name": "Soccer",
+        "origins": "Soccer was introduced to Nigeria during British colonial rule in the early 20th century and quickly became the most popular sport. Nigeria is a diverse country with over 250 ethnic groups, and soccer serves as a unifying force that transcends ethnic, linguistic, and religious divides."
+    },
+    {
+        "country_id": "kenya",
+        "sport_name": "Long Distance Running",
+        "origins": "Kenyan athletes have achieved unparalleled success in international long-distance and middle-distance running events, including marathons, Olympics, and World Championships. Running is deeply embedded in certain communities, particularly among the Kalenjin people, who are often referred to as the 'running tribe' due to their extraordinary success in athletics."
+    },
+    {
+        "country_id": "south africa",
+        "sport_name": "Rugby",
+        "origins": "Rugby was introduced to South Africa in the 19th century by British settlers and quickly became popular, particularly among the white Afrikaner population. Rugby played a crucial role in South Africa’s post-apartheid reconciliation. The 1995 Rugby World Cup, hosted and won by South Africa, became a symbol of unity under Nelson Mandela’s leadership."
+    },
+    {
+        "country_id": "saudi arabia",
+        "sport_name": "Camel Racing",
+        "origins": "Camels have been a vital part of life in Saudi Arabia for centuries, serving as essential companions in transportation, trade, and survival in the desert. Camel racing events are not just competitions but cultural celebrations that bring together communities. They often include music, food, and other activities, fostering social bonds."
+    },
+    {
+        "country_id": "pakistan",
+        "sport_name": "Field Hockey",
+        "origins": "Field hockey was introduced to the Indian subcontinent during British colonial rule in the 19th century. After Pakistan gained independence in 1947, the sport became a key part of the country’s national identity. The sport has been a unifying force in Pakistan, transcending ethnic, linguistic, and regional divisions, especially during international tournaments."
+    },
+    {
+        "country_id": "india",
+        "sport_name": "Field Hockey",
+        "origins": "India had a long history of success in field hockey, particularly in the early and mid-20th century. ockey, both in its field version and its indigenous forms, was widely played in Indian schools, clubs, and villages. The sport was accessible to a large population, making it one of the most popular games in the country during the 20th century."
+    },
+    {
+        "country_id": "russia",
+        "sport_name": "Ice Hockey",
+        "origins": "Ice hockey became popular in Russia during the early 20th century. It was introduced in the 1940s and quickly gained traction, particularly in Soviet Union-era sports programs.  Ice hockey holds a special place in Russian culture, especially in colder regions where winter sports are a part of daily life."
+    },
+    {
+        "country_id": "china",
+        "sport_name": "Table Tennis",
+        "origins": " "
+    },
+    {
+        "country_id": "japan",
+        "sport_name": "Sumo Wrestling",
+        "origins": "Sumo has ancient origins in Japan, with its roots tracing back over 1,500 years. It started as a ritualistic performance to honor the Shinto gods and was initially performed as part of religious ceremonies. As Japan's national sport, sumo is seen as a symbol of the country's identity, heritage, and values such as discipline, respect, and perseverance."
+    },
+    {
+        "country_id": "thailand",
+        "sport_name": "Muay Thai",
+        "origins": "Muay Thai has ancient roots that go back over 2,000 years. It originated as a military training technique used by Thai warriors during times of conflict. Muay Thai is not just a sport; it is deeply woven into the fabric of Thai culture. It is associated with respect, discipline, and honor, qualities that are highly valued in Thai society."
+    },
+    {
+        "country_id": "philippines",
+        "sport_name": "Arnis",
+        "origins": "Arnis has its origins in the Philippines, where it developed as a system of martial arts for self-defense, combat, and survival. It is a traditional Filipino martial art that dates back centuries, evolving from the various indigenous fighting styles practiced by early Filipinos. It was used by Filipino warriors, particularly during the colonial period when the country was under Spanish rule."
+    },
+    {
+        "country_id": "new zealand",
+        "sport_name": "rugby",
+        "origins": "Rugby was introduced to New Zealand by British settlers in the 19th century. The sport quickly gained popularity, and by 1870, the first rugby match was played in New Zealand. Over time, it became deeply embedded in the fabric of New Zealand society, particularly in rural areas. Rugby's development and integration into local communities helped it become a central part of New Zealand's cultural identity."
+    },
+    {
+        "country_id": "australia",
+        "sport_name": "Australian Rules Football",
+        "origins": "Australian Rules Football was created in the mid-19th century, around 1858, in Melbourne. It was specifically developed to suit the unique Australian environment and culture, combining elements of rugby, soccer, and indigenous games. It became the first uniquely Australian code of football, which helped it gain a distinct identity."
+    }
+]
