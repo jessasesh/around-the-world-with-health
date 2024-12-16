@@ -1,6 +1,5 @@
-[
-    {
-        Country: Canada
+
+Country: Canada
 
 Popular Activities: Hockey, Hiking, Cycling, and Swimming.
 
@@ -232,7 +231,7 @@ National Sport(s): Soccer
 
 Origins: Soccer was introduced to Nigeria during British colonial rule in the early 20th century and quickly became the most popular sport. Nigeria is a diverse country with over 250 ethnic groups, and soccer serves as a unifying force that transcends ethnic, linguistic, and religious divides.
 
-HeathCare: Nigeria is a dual system between public and private sectors. Nigeria has made some improvements to its universal system but the country is still struggling to provide quality inexpensive services to its citizens. 
+HeathCare: Nigeria is a dual system between public and private sectors. Nigeria has made some improvements to its universal system but the country is still struggling to provide quality inexpensive services to its citizens.
 
 Obesity Rate (BMI>OR=30): 10.84%
 
