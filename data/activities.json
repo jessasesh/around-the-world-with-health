@@ -5,9 +5,9 @@
         "description": "Canada is known for its incredible natural beauty, with thousands of trails in national and provincial parks."
     },
     {
-        "_id": "beachgoing",
-        "name": "Beachgoing",
-        "description": "Costa Rica is home to some of the world's most beautiful beaches along both the Pacific and Caribbean coasts."
+        "_id": "walking",
+        "name": "Walking",
+        "description": "Costa Rica is home to some of the world's most beautiful beaches along both the Pacific and Caribbean coasts, walking along the beach is something of a site."
     },
     {
         "_id": "walking",
@@ -57,7 +57,7 @@
     {
         "_id": "hiking",
         "name": "Hiking",
-        "description": "Hikingare deeply ingrained in German culture. With an extensive network of trails, forests, and mountains, Germans of all ages enjoy nature walks and hikes, especially on weekends."
+        "description": "Hikes are deeply ingrained in German culture. With an extensive network of trails, forests, and mountains, Germans of all ages enjoy nature walks and hikes, especially on weekends."
     },
     {
         "_id": "walking",
