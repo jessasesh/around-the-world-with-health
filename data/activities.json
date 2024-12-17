@@ -2,151 +2,101 @@
     {
         "_id": "hiking",
         "name": "Hiking",
-        "description": "Canada is known for its incredible natural beauty, with thousands of trails in national and provincial parks."
+        "description": "Hiking is a popular outdoor activity enjoyed in natural landscapes such as forests, mountains, and national parks."
     },
     {
         "_id": "walking",
         "name": "Walking",
-        "description": "Costa Rica is home to some of the world's most beautiful beaches along both the Pacific and Caribbean coasts, walking along the beach is something of a site."
-    },
-    {
-        "_id": "walking",
-        "name": "Walking",
-        "description": "Walking is an easy, low-cost, and accessible way for people to stay active, enjoy nature, and spend time with family or friends."
+        "description": "Walking is an accessible activity, often enjoyed in parks, cities, or along scenic routes for leisure or fitness."
     },
     {
         "_id": "soccer",
         "name": "Soccer",
-        "description": "People of all ages play informal matches in parks, streets, or schoolyards, and watching soccer is a national pastime, especially games involving the national team (El Tri) or local clubs."
+        "description": "Soccer is the most popular sport worldwide, uniting people through playing informal matches and supporting teams."
     },
     {
         "_id": "swimming",
         "name": "Swimming",
-        "description": "With coastlines on both the Pacific Ocean and the Caribbean Sea, Panamanians frequently visit beaches for relaxation, swimming, and socializing."
+        "description": "Swimming is a recreational and fitness activity, often enjoyed at beaches, pools, and rivers."
     },
     {
         "_id": "dancing",
         "name": "Dancing",
-        "description": "Dancing is a cornerstone of Colombian culture, and it is enjoyed at family gatherings, public festivals, or even casually in public spaces. "
-    },
-    {
-        "_id": "soccer",
-        "name": "Soccer",
-        "description": "Soccer is the most popular sport in Peru, and it is a common activity in both urban and rural areas."
-    },
-    {
-        "_id": "soccer",
-        "name": "Soccer",
-        "description": "Soccer is not just a sport in Brazil—it’s a national passion and a way of life. People of all ages play informal matches, known as peladas, in parks, streets, beaches, or improvised fields."
-    },
-    {
-        "_id": "soccer",
-        "name": "Soccer",
-        "description": "Soccer is the lifeblood of Argentina and the most popular public activity. People play casual matches in parks, fields, and even streets, while watching soccer—especially games involving clubs like Boca Juniors and River Plate or the national team—is a unifying and emotional experience."
-    },
-    {
-        "_id": "walking",
-        "name": "Walking",
-        "description": "Uruguay’s rambla, a coastal promenade stretching along cities like Montevideo, is a favorite spot for walking, jogging, cycling, or simply relaxing while enjoying views of the Río de la Plata."
-    },
-    {
-        "_id": "walking",
-        "name": "Walking",
-        "description": "Walking is one of the most common and accessible outdoor activities in the UK. People enjoy countryside walks, city strolls, and hikes in scenic areas."
-    },
-    {
-        "_id": "hiking",
-        "name": "Hiking",
-        "description": "Hikes are deeply ingrained in German culture. With an extensive network of trails, forests, and mountains, Germans of all ages enjoy nature walks and hikes, especially on weekends."
-    },
-    {
-        "_id": "walking",
-        "name": "Walking",
-        "description": "The walking or the 'passeggiata' is a beloved Italian tradition where people take a leisurely walk, usually in the early evening, often with family, friends, or pets. It’s a social activity and a chance to relax after the day."
-    },
-    {
-        "_id": "hiking",
-        "name": "Hiking",
-        "description": "Hiking, referred to as 'gå på tur' (going for a walk or hike), is a cornerstone of Norwegian culture. Norwegians enjoy hiking through forests, mountains, and fjords, taking advantage of their country’s spectacular natural beauty."
-    },
-    {
-        "_id": "walking",
-        "name": "Walking",
-        "description": "Walking (Yürüyüş), especially in parks or along waterfronts, is a favorite pastime. Many people enjoy leisurely strolls, often with family or friends, in public gardens or scenic areas."
-    },
-    {
-        "_id": "soccer",
-        "name": "Soccer",
-        "description": "Soccer is the most popular sport in Algeria, and watching matches, especially those of the national team (Les Fennecs), is a widespread public activity"
-    },
-    {
-        "_id": "soccer",
-        "name": "Soccer",
-        "description": "Soccer is by far the most popular sport in Egypt. Watching football, particularly Egyptian Premier League games or international matches featuring the national team (the Pharaohs), is a widely practiced public activity."
-    },
-    {
-        "_id": "soccer",
-        "name": "Soccer",
-        "description": "Soccer is the most popular sport in Nigeria, and it enjoys widespread participation and viewership. Local football matches, both professional and informal games, are common in many communities."
+        "description": "Dancing is a cultural and social activity that brings people together at events, festivals, or informal gatherings."
     },
     {
         "_id": "jogging",
         "name": "Jogging",
-        "description": "In urban areas, fitness culture, particularly jogging and cycling, is gaining traction."
-    },
-    {
-        "_id": "hiking",
-        "name": "Hiking",
-        "description": "Given the country’s beautiful landscapes and climate, outdoor activities like hiking, visiting nature reserves, going on safaris, or spending time at the beach are very popular."
-    },
-    {
-        "_id": "soccer",
-        "name": "Soccer",
-        "description": "Soccer is the most popular sport in Saudi Arabia, with many people attending matches, participating in local leagues, or following international football events."
+        "description": "Jogging is a common fitness activity enjoyed in urban areas, parks, and along scenic paths."
     },
     {
         "_id": "cricket",
         "name": "Cricket",
-        "description": "Cricket is by far the most popular sport in Pakistan, and it unites people from all walks of life. Whether playing in the streets, parks, or local grounds, or watching matches on television or at stadiums, cricket is a national obsession."
+        "description": "Cricket is a bat-and-ball game with deep cultural roots, often played in local fields or parks."
     },
     {
-        "_id": "cricket",
-        "name": "Cricket",
-        "description": "Cricket is by far the most popular sport in India. It is not just a game but a passion that unites people across different states and communities."
-    },
-    {
-        "_id": "ice hockey",
+        "_id": "ice_hockey",
         "name": "Ice Hockey",
-        "description": "People of all ages play ice hockey in local rinks or participate in informal games during the winter."
+        "description": "Ice Hockey is a fast-paced team sport played on ice, often during winter months in colder climates."
     },
     {
-        "_id": "table tennis",
+        "_id": "table_tennis",
         "name": "Table Tennis",
-        "description": "China has dominated international table tennis competitions for decades, with the national team consistently producing world-class players."
+        "description": "Table Tennis, also known as ping pong, is a fast-paced indoor sport played with paddles and a small ball."
     },
     {
-        "_id": "walking",
-        "name": "Walking",
-        "description": "Japanese people have a long-standing cultural and spiritual connection to nature. Parks, gardens, and outdoor spaces are widely used for relaxation, walks, and exercise, reflecting the importance of balancing urban life with time spent in natural settings."
-    },
-    {
-        "_id": "muay thai",
+        "_id": "muay_thai",
         "name": "Muay Thai",
-        "description": "Muay Thai, the traditional Thai martial art, is both a sport and a cultural activity. It’s widely practiced by locals and also enjoyed as a spectator sport in various regions of the country."
+        "description": "Muay Thai is a traditional martial art and combat sport, widely practiced for fitness and competition."
     },
     {
         "_id": "basketball",
         "name": "Basketball",
-        "description": "Basketball is often played in public spaces such as neighborhood courts, schools, and open fields."
+        "description": "Basketball is a team sport commonly played on public courts, in schools, and professional arenas."
     },
     {
         "_id": "rugby",
         "name": "Rugby",
-        "description": "Rugby is more than just a sport in New Zealand; it’s a way of life. Major rugby events, such as the Rugby World Cup and domestic competitions like the Super Rugby league, draw huge crowds and inspire widespread celebrations."
+        "description": "Rugby is a physical team sport played with an oval ball, known for its passionate fans and traditions."
     },
     {
-        "_id": "cricket",
-        "name": "Cricket",
-        "description": "ricket is another sport that has a massive following, particularly during the summer months. People gather to watch international matches or play casual games in parks and beaches."
+        "_id": "long_distance_running",
+        "name": "Long Distance Running",
+        "description": "Long-distance running is a popular endurance sport and fitness activity, often enjoyed in marathons and scenic routes."
+    },
+    {
+        "_id": "australian_rules_football",
+        "name": "Australian Rules Football",
+        "description": "Australian Rules Football is a dynamic team sport unique to Australia, blending elements of soccer and rugby."
+    },
+    {
+        "_id": "sumo_wrestling",
+        "name": "Sumo Wrestling",
+        "description": "Sumo Wrestling is a traditional Japanese combat sport, deeply rooted in cultural and ritual practices."
+    },
+    {
+        "_id": "field_hockey",
+        "name": "Field Hockey",
+        "description": "Field Hockey is a widely played team sport, involving skillful ball control with a stick on a grass or turf field."
+    },
+    {
+        "_id": "camel_racing",
+        "name": "Camel Racing",
+        "description": "Camel Racing is a traditional cultural sport popular in desert regions, celebrating heritage and community."
+    },
+    {
+        "_id": "oil_wrestling",
+        "name": "Oil Wrestling",
+        "description": "Oil Wrestling is a historic cultural sport involving skill and strength, with roots in traditional ceremonies."
+    },
+    {
+        "_id": "tejo",
+        "name": "Tejo",
+        "description": "Tejo is a traditional sport combining skill and precision, often enjoyed in social gatherings and festivals."
+    },
+    {
+        "_id": "paleta_fronton",
+        "name": "Paleta Frontón",
+        "description": "Paleta Frontón is a traditional racquet sport played in public spaces and sports facilities."
     }
 ]
