@@ -194,5 +194,6 @@ http://localhost:5000/api
 
 ## Contribution
 
-This project is a team effort. Contributions and feedback are welcome. Follow the standard Git workflow for submitting changes.
+Jessica Dison
+Luke Schula
 
