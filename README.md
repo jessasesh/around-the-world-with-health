@@ -112,6 +112,79 @@ Given the limited number of days, the project is scoped to focus on an **MVP (Mi
 
 ---
 
+## API Documentation
+
+### Base URL
+```
+http://localhost:5000/api
+```
+
+### Endpoints
+
+#### 1. **Get Countries**
+- **URL**: `/countries`
+- **Method**: `GET`
+- **Description**: Retrieve a list of countries with basic details.
+- **Response Example**:
+```json
+[
+  {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "population": 126300000
+  },
+  {
+    "name": "Brazil",
+    "capital": "Brasília",
+    "region": "South America",
+    "population": 212600000
+  }
+]
+```
+
+#### 2. **Get Activities**
+- **URL**: `/activities`
+- **Method**: `GET`
+- **Description**: Retrieve a list of global health and recreational activities.
+- **Response Example**:
+```json
+[
+  {
+    "activity": "Yoga",
+    "type": "Physical",
+    "description": "A mind and body practice focusing on flexibility and breathing."
+  },
+  {
+    "activity": "Hiking",
+    "type": "Outdoor",
+    "description": "Walking in nature for recreation and exercise."
+  }
+]
+```
+
+#### 3. **Get National Sports**
+- **URL**: `/national-sports`
+- **Method**: `GET`
+- **Description**: Retrieve a list of countries and their culturally significant sports.
+- **Response Example**:
+```json
+[
+  {
+    "country": "Canada",
+    "sport": "Ice Hockey",
+    "description": "A fast-paced team sport played on ice."
+  },
+  {
+    "country": "India",
+    "sport": "Cricket",
+    "description": "A bat-and-ball game popular in Commonwealth nations."
+  }
+]
+```
+
+---
+
 ## Future Enhancements (Post-MVP)
 - Integrate a database (MongoDB) for dynamic data storage.
 - Add filtering and searching capabilities for the API.
@@ -122,3 +195,4 @@ Given the limited number of days, the project is scoped to focus on an **MVP (Mi
 ## Contribution
 
 This project is a team effort. Contributions and feedback are welcome. Follow the standard Git workflow for submitting changes.
+
